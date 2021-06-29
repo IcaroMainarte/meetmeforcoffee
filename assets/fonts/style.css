@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?k90uak');
+  src:  url('fonts/icomoon.eot?k90uak#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?k90uak') format('truetype'),
+    url('fonts/icomoon.woff?k90uak') format('woff'),
+    url('fonts/icomoon.svg?k90uak#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-phone:before {
+  content: "\e911";
+}
+.icon-arrow-up:before {
+  content: "\e900";
+}
+.icon-Capuccino:before {
+  content: "\e901";
+}
+.icon-close:before {
+  content: "\e902";
+}
+.icon-Coffee:before {
+  content: "\e903";
+}
+.icon-coffee2:before {
+  content: "\e904";
+}
+.icon-coffee3:before {
+  content: "\e905";
+}
+.icon-coffee-shop:before {
+  content: "\e906";
+}
+.icon-delivery:before {
+  content: "\e907";
+}
+.icon-facebook:before {
+  content: "\e908";
+}
+.icon-Frappe:before {
+  content: "\e909";
+}
+.icon-icon-capuccino:before {
+  content: "\e90a";
+}
+.icon-icon-coffee:before {
+  content: "\e90b";
+}
+.icon-icon-milkshake:before {
+  content: "\e90c";
+}
+.icon-instagram:before {
+  content: "\e90d";
+}
+.icon-mail:before {
+  content: "\e90e";
+}
+.icon-map-pin:before {
+  content: "\e90f";
+}
+.icon-menu:before {
+  content: "\e910";
+}
+.icon-travel:before {
+  content: "\e912";
+}
+.icon-whatsapp:before {
+  content: "\e913";
+}
+.icon-youtube:before {
+  content: "\e914";
+}
